@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: #020631;
+  background-color: #100b30;
 }
 
 .app {
@@ -87,6 +87,9 @@ h2 {
 }
 .completed{
   color: white;
+  margin-top: 50px;
+}
+
+.completed h2{
   background-color: #122c4b;
-  margin-top: 200px;
 }
