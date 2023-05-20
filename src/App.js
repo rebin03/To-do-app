@@ -20,7 +20,6 @@ function App() {
           <h1>ToDo List</h1>
         </div>
       <div className='adding'>
-        
         <div className="subHeading">
           <br />
           <h2>Whoop, it's Wednesday 🌝 ☕ </h2>
