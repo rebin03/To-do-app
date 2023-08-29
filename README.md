@@ -5,6 +5,8 @@ This s a simple To-do App using React.js
 You can Add, Delete, Update the to-do's.
 the completed to-do is shown sepetrately.
 
+Live link: [Click here](https://rebin03.github.io/To-do-app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
